@@ -1,7 +1,7 @@
 <h1><b><i>CURRENCY CONVERTER 💸</i></b></h1>
 <h1><i>AUTHOR : RIMSHA SHEIKH 💜</i></h1>
 <h1><b><i>DESCRIPTION📄</i></b></h1>
-<p><i>Currency Converter is a simple Python program that allows users to convert between different currencies based on real-time exchange</br>
+<p><i>Currency Converter is a simple  program that allows users to convert between different currencies based on real-time exchange</br>
 rates. It provides a user-friendly interface for effortless currency conversion.❗</i></p>
 <h1><b><i>FEATURES ✨</i></b></h1>
 <ul>
@@ -15,7 +15,7 @@ rates. It provides a user-friendly interface for effortless currency conversion.
 <h1><b><i>INSTALLATION 📌</i></b></h1>
 <p><i>if you want to use this currency converter to convert curriencies you can install it from my npm the command is👇 </i></p>
 <h2><i>npm i fx_trader_currency_converter</i>🔴</h2></br>
-<p><i>Feel free to ask anything 🌸</i></p>
+<h3><i>Feel free to ask anything 🌸</i></h3>
 <h1><b><i>THANK YOU SO MUCH FOR CHECK MY REPO 🌸</i></b></h1>
 
   
